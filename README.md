@@ -54,55 +54,7 @@
 - GitHub (Documentation Hosting)
 
 
-
-## Documentation
-
-Transformed raw sales and feature data into a strategic visual analytics dashboard for Apple iPhone performance in India using Tableau, powered by design thinking and data storytelling.
-
-All design thinking documentation, storyboards, and architecture are available in the `/8. Doc and Demo` folder.
-[ Click here for Documentation](https://drive.google.com/file/d/15AN1bvYyUA-HEF-wuXahXbG53zrtS0wa/view?usp=drive_link)
-
-## Usage/Examples
-📌 Filter by year/region to discover iPhone growth in South India  
-📌 Analyze pricing trend across battery/display types  
-📌 Use the story view to narrate iPhone’s rise with data  
-
-## Roadmap
-- [x] Data Collection  
-- [x] Data Preparation
-- [x] Data visualization 
-- [x] Dashboard Development  
-- [x] Story Design  
-- [x] Report
-- [x] Performance Testing
-- [x] Project Demonstration & Documentation
-- [x] Final Report
-
-
-
 ## Team (LinkedIn Profiles👇)
 
-- [@vnvrkarthik](https://www.linkedin.com/in/vnvrkarthik/) 
-- [@Hema Saikumar_Tentu](https://www.linkedin.com/in/hema-sai-kumar-tentu-910971319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [@Poojitha Kolusu](https://www.linkedin.com/in/poojitha-kolusu-25820b2ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [@Jagadeesh_Tamma](https://www.linkedin.com/in/tamma-jagadeesh-3619372bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-
-
-
-## Feedback
-
-If you find this helpful or have ideas to improve it, feel free to open an issue or reach me at [vnvrkarthik@gmail.com].
-
-
-
-![Static Badge](https://img.shields.io/badge/Tableau-1c0c6f?style=plastic) 
-
-![Static Badge](https://img.shields.io/badge/Data_Visualization-310a59?style=plastic)
-
-![Static Badge](https://img.shields.io/badge/Data_Analysis-360421?style=plastic)
-
-![Static Badge](https://img.shields.io/badge/Dashboards_&_Stories-300520?style=plastic)
-
-![Static Badge](https://img.shields.io/badge/UI/UX-0a0420?style=plastic)
+- [@Ajinkya_Mhasrup] www.linkedin.com/in/ajinkya-mhasrup-40a32a298
 
